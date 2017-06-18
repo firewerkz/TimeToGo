@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Firewerkz]({{ site.baseurl }}/images/firewerkz.png "Firewerkz")
+![Firewerkz]({{ site.baseurl }}/images/Firewerkz.png "Firewerkz")
 
 [comment]: # <img src="/images/firewerkz.png" width="50">
 
