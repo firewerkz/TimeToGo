@@ -18,7 +18,7 @@ email: dickdotjohnson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Simple Time to Go iOS App. Calculates weeks and days from today to a date in
   the future, and the date for a given numbers of week from today. Simple.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/TimeToGo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: raajohnson
 github_username:  firewerkz
