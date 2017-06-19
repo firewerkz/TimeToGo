@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TimeToGo
-email: dickdotjohnson@gmail.com
+email: firewerkz.info@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Simple Time to Go iOS App. Calculates weeks and days from today to a date in
   the future, and the date for a given numbers of week from today. Simple.
