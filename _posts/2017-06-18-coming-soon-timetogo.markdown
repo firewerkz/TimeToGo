@@ -14,4 +14,4 @@ The app is in beta at the moment and will be coming to the App Store soon.
 
 All the best, Dick.
 
-<img src="{{ site.baseurl }}/images/iPhone7-4Date1-d41d8cd98f00b204e9800998ecf8427e_framed.png" width="300">
+<img src="{{ site.baseurl }}/images/iPhone7-4Date1-d41d8cd98f00b204e9800998ecf8427e_framed.png" width="350">
