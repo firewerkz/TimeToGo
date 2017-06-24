@@ -7,7 +7,7 @@ categories:
 
 Well today my first app, TimeToGo, TtG, was released.
 
-[![TimeToGo]({{ site.baseurl }}/images/TtG128.png "TimeToGo")](https://firewerkz.github.io/TimeToGo/)
+[![TimeToGo]({{ site.baseurl }}/images/TtG128.png "TimeToGo")](https://itunes.apple.com/gb/app/ttg/id1198911840?mt=8)
 
 Originally written for my wife, I hope you find it useful to.
 
